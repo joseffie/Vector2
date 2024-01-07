@@ -1,6 +1,5 @@
 {
   "name": "joseffie-vector2",
-  "private": "false",
   "version": "1.0.0",
   "description": "Class representing a 2-dimensional vector.",
   "homepage": "https://github.com/joseffie/Vector2",

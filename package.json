@@ -1,0 +1,21 @@
+{
+  "name": "@jozeffie/vector2",
+  "version": "1.0.0",
+  "description": "Class representing a 2-dimensional vector.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jozeffie",
+  "license": "MIT",
+  "keywords": [
+    "vector",
+    "vector2"
+  ],
+  "devDependencies": {
+    "eslint": "^8.56.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.25.2"
+  }
+}
